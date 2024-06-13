@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c2f44ca75cf0cbebaf40b1bc5c1a3841ccfd539")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
